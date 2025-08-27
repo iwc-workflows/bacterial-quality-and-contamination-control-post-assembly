@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-08-21T14:03:28.050581",
+            "datePublished": "2025-08-27T18:06:07.654474",
             "hasPart": [
                 {
                     "@id": "bacterial_quality_and_contamination_control_post_assembly.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#28bc3527-c9e0-41a7-912e-1b166c829688"
+                    "@id": "#323608d2-0e41-45ef-9f8d-ca503b2fd1b5"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/bacterial-quality-and-contamination-control-post-assembly",
-            "version": "1.0"
+            "version": "1.0.1"
         },
         {
             "@id": "#galaxy",
@@ -96,7 +96,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#28bc3527-c9e0-41a7-912e-1b166c829688",
+            "@id": "#323608d2-0e41-45ef-9f8d-ca503b2fd1b5",
             "@type": "Person",
             "name": "ABRomics"
         },
