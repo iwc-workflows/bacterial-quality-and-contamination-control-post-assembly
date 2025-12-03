@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-08-27T18:06:07.654474",
+            "datePublished": "2025-12-03T15:09:21.777026",
             "hasPart": [
                 {
                     "@id": "bacterial_quality_and_contamination_control_post_assembly.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#323608d2-0e41-45ef-9f8d-ca503b2fd1b5"
+                    "@id": "#e866c2b3-e598-450a-a4bd-a761379e521d"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
@@ -74,6 +74,9 @@
                 },
                 {
                     "@id": "https://orcid.org/0009-0005-6140-0379"
+                },
+                {
+                    "@id": "https://orcid.org/0009-0005-6834-4058"
                 }
             ],
             "name": "bacterial-quality-and-contamination-control-post-assembly/main",
@@ -81,7 +84,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/bacterial-quality-and-contamination-control-post-assembly",
-            "version": "1.0.1"
+            "version": "1.0.2"
         },
         {
             "@id": "#galaxy",
@@ -96,7 +99,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#323608d2-0e41-45ef-9f8d-ca503b2fd1b5",
+            "@id": "#e866c2b3-e598-450a-a4bd-a761379e521d",
             "@type": "Person",
             "name": "ABRomics"
         },
@@ -114,6 +117,11 @@
             "@id": "https://orcid.org/0009-0005-6140-0379",
             "@type": "Person",
             "name": "Clea Siguret"
+        },
+        {
+            "@id": "https://orcid.org/0009-0005-6834-4058",
+            "@type": "Person",
+            "name": "Hugo Lefeuvre"
         },
         {
             "@id": "README.md",
@@ -162,7 +170,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.32"
+            "engineVersion": ">=0.75.33"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
