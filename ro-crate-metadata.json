@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-12-03T15:09:21.777026",
+            "datePublished": "2026-10-16T19:55:09.791253",
             "hasPart": [
                 {
                     "@id": "bacterial_quality_and_contamination_control_post_assembly.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#e866c2b3-e598-450a-a4bd-a761379e521d"
+                    "@id": "#fe28e5fe-c3d9-47d7-bd30-5a10d2630768"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
@@ -84,7 +84,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/bacterial-quality-and-contamination-control-post-assembly",
-            "version": "1.0.2"
+            "version": "1.0.3"
         },
         {
             "@id": "#galaxy",
@@ -99,7 +99,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#e866c2b3-e598-450a-a4bd-a761379e521d",
+            "@id": "#fe28e5fe-c3d9-47d7-bd30-5a10d2630768",
             "@type": "Person",
             "name": "ABRomics"
         },
@@ -170,7 +170,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.33"
+            "engineVersion": ">=0.75.47"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
